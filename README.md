@@ -1,4 +1,4 @@
-# Everything On Travel: Instructional Journeys: Travel-Integrated Training Resources
+# Everything On Travel. Instructional Journeys: Travel-Integrated Training Resources
 
 This repository features a comprehensive set of instructional design documents and templates focused on travel-related training, including itineraries with embedded learning objectives, hospitality training guides, mobile learning strategies, and event-based instructional plans. Designed for instructional designers, training coordinators, and hospitality professionals, this collection supports the planning, execution, and evaluation of learning experiences that take place in dynamic, travel-based environments.
 
